@@ -6,11 +6,6 @@
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="ed1d4dd5-a450-48b9-ac28-cb4f8517da11" name="ssh://mbanaev@localhost:2224" url="http:///">
-        <fileTransfer host="localhost" port="2224" accessType="SFTP">
-          <option name="port" value="2224" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
