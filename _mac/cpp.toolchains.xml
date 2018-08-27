@@ -3,7 +3,7 @@
     <toolchains detectedVersion="5">
       <toolchain name="Default" debuggerKind="BUNDLED_LLDB" />
       <toolchain name="clang" customCMakePath="/usr/local/bin/cmake" customCCompilerPath="clang" customCXXCompilerPath="clang++" debuggerKind="BUNDLED_LLDB" />
-      <toolchain name="gcc" customCXXCompilerPath="/usr/local/bin/g++-8" debuggerKind="CUSTOM_GDB" customGDBPath="/usr/local/bin/gdb" />
+      <toolchain name="gcc" customCCompilerPath="/usr/local/bin/gcc-8" customCXXCompilerPath="/usr/local/bin/g++-8" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
 </application>
