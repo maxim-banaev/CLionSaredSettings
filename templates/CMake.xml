@@ -1,0 +1,7 @@
+<templateSet group="CMake">
+  <template name="asan" value="set(CMAKE_CXX_FLAGS &quot;${CMAKE_CXX_FLAGS} -fsanitize=address -fno-omit-frame-pointer&quot;)" description="Using AddressSanitizer" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="CMAKE" value="true" />
+    </context>
+  </template>
+</templateSet>

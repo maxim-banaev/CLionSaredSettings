@@ -1,0 +1,12 @@
+<code_scheme name="Default" version="173">
+  <MarkdownNavigatorCodeStyleSettings>
+    <option name="RIGHT_MARGIN" value="72" />
+  </MarkdownNavigatorCodeStyleSettings>
+  <Objective-C-extensions>
+    <extensions>
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
+      <pair source="cpp" header="hxx" fileNamingConvention="NONE" />
+    </extensions>
+  </Objective-C-extensions>
+</code_scheme>
