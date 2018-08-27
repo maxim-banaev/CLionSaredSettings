@@ -1,49 +1,14 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="dc049819-b1ec-4f7c-bd34-4d621db5b0c6" name="ssh://mbanaev@localhost:2222" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP">
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="241d4ff0-2d97-4080-8eb5-7669d251de42" name="ssh://mbanaev@localhost:2224" url="http:///">
-        <fileTransfer host="localhost" port="2224" accessType="SFTP">
-          <option name="port" value="2224" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="443a5145-36af-47b9-ae88-53e57021aea7" name="ssh://mbanaev@localhost:2222 (1)" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP">
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="b6033ed9-d48d-43ac-9c6d-0d45948d8bcb" name="ssh://mbanaev@localhost:2222 (2)" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP">
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="c5f25409-5158-42cf-8ba9-e89a80710625" name="ssh://mbanaev@localhost:2224 (1)" url="http:///">
-        <fileTransfer host="localhost" port="2224" accessType="SFTP">
-          <option name="port" value="2224" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="35236ed4-e4da-41a6-b3cb-ae2a93c6ee00" name="ssh://mbanaev@localhost:2222 (3)" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP">
-          <option name="port" value="2222" />
-        </fileTransfer>
-      </webServer>
       <webServer id="b23bffb4-44eb-4d50-bd00-1fadd7395dc3" name="ssh://mbanaev@localhost:2222" url="http:///">
         <fileTransfer host="localhost" port="2222" accessType="SFTP">
           <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
-      <webServer id="d33c72a7-6ac4-4c7a-9d31-e66a3b01cc94" name="ssh://mbanaev@localhost:2224" url="http:///">
+      <webServer id="ed1d4dd5-a450-48b9-ac28-cb4f8517da11" name="ssh://mbanaev@localhost:2224" url="http:///">
         <fileTransfer host="localhost" port="2224" accessType="SFTP">
           <option name="port" value="2224" />
-        </fileTransfer>
-      </webServer>
-      <webServer id="a14332a5-55aa-46b3-a320-6ede0496b2d4" name="ssh://mbanaev@localhost:2222" url="http:///">
-        <fileTransfer host="localhost" port="2222" accessType="SFTP">
-          <option name="port" value="2222" />
         </fileTransfer>
       </webServer>
     </option>
