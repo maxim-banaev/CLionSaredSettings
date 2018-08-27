@@ -1,5 +1,0 @@
-<application>
-  <component name="NotificationConfiguration">
-    <notification groupId="Compilation Database Import" shouldLog="false" />
-  </component>
-</application>
